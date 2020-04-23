@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: sample.HelloFX
+Class-Path: libs/poi-ooxml-4.1.1.jar libs/poi-4.1.1.jar
+
